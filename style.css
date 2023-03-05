@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+
+.myNavbar
+{
+position: sticky;
+top:0;
+color: floralwhite;
+z-index: 9999999;
+}
+.navbar-inverse {
+    background-color:#2f026b;  
+  
+}
+#hogwarts{
+padding-top:1%;
+width:35%;
+
+}
+.links {
+    display: inline;
+padding-left: 33px;
+padding-right: 25px;
+font-family: 'Pirata One', cursive;
+font-size: 20px;}
